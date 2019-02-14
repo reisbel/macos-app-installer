@@ -1,5 +1,4 @@
-# macos-app-installer
-Generate MacOs application installer
+# Generate MacOs application installer using pkgbuild
 
 To compile a package:
 
