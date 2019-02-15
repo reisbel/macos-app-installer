@@ -15,6 +15,11 @@ mkdir files
 Copy application files to the created folder 'files'
 
 Update 'build.sh' file varibles values.
+
+```
+vim ./build.sh
+```
+
 - NAME : Application name
 - IDENTIFIER : Application identifier
 - VERSION : Current application version
